@@ -8,8 +8,11 @@ de desarrollo y otras se darán por sentado
 ## Problemas detectados
 
 1. Definir infraestructura para el desarrollo
-	1.a Definir tipo de desarrollo,
-		¿Hay algo desarrollado previamente?, no especificado pero se deduce que no hay ningún tipo de desarrollo
+
+	1.a Definir tipo de desarrollo
+
+	¿Hay algo desarrollado previamente?, no especificado pero se deduce que no hay ningún tipo de desarrollo
+
 	1.b Lenguaje o framework a utilizar, no especificado se dejará a libre disposición
 	1.c Servidor
 		1.c.i Qué tipo de servidores se utilizará (S. Operativo, si se cuenta con uno propio) No especificado
